@@ -1,4 +1,4 @@
-# Emotionally Customizable ChatBot
+# Emotion Customizable ChatBot
 Chatting with chatgpt feels good, but sometimes the voice might be too flat or not emotional enough. Maybe it would be instresting if we can customize the voice response. 
 
 This project combines the feature of multistyle-speech in **f5-tts**, LLM(using **chatgpt api**), and **EmoTalk** talking face.
